@@ -7,6 +7,6 @@ todo
 -------
 - [ ] test
 - [ ] test
-- [X] test
+- [x] test
 
 You can find the wiki [here](https://github.com/sbuggay/aulinux/wiki)
